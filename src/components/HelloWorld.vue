@@ -2,31 +2,24 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      Download App to memorize vocabulary<br>
+      click the
+      <a href="https://www.maimemo.com" target="_blank" rel="noopener">Maimemo</a>.
     </p>
-    <h3>Installed CLI Plugins</h3>
+    <h3>Installed App</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
+      <li><a href="https://apps.apple.com/cn/app/id888483369" target="_blank" rel="noopener">iOS</a></li>
+      <li><a href="https://cdn.maimemo.com/apk/maimemo_v3.8.41_1607756087.apk" target="_blank" rel="noopener">Android</a></li>
     </ul>
     <h3>Essential Links</h3>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
+      <li><a href="https://www.maimemo.com/home/voc_test" target="_blank" rel="noopener">词汇量测试</a></li>
+      <li><a href="https://www.maimemo.com/shop" target="_blank" rel="noopener">增加上限</a></li>
+      <li><a href="https://www.maimemo.com/custom/show/phrase" target="_blank" rel="noopener">我的例句</a></li>
+      <li><a href="https://www.maimemo.com/custom/show/note" target="_blank" rel="noopener">我的助记</a></li>
+      <li><a href="https://www.maimemo.com/home/login" target="_blank" rel="noopener">登录</a></li>
     </ul>
     <h3>Ecosystem</h3>
-    <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
-    </ul>
   </div>
 </template>
 
