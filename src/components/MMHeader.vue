@@ -14,11 +14,6 @@ export default {
 </script>
 
 <style>
-#mm-header {
-  margin-left: 200px;
-  margin-right: 200px;
-}
-
 #logo-div {
   width: 400px;
   text-align: left;

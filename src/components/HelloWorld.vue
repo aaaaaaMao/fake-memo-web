@@ -19,7 +19,6 @@
       <li><a href="https://www.maimemo.com/custom/show/note" target="_blank" rel="noopener">我的助记</a></li>
       <li><a href="https://www.maimemo.com/home/login" target="_blank" rel="noopener">登录</a></li>
     </ul>
-    <h3>Ecosystem</h3>
   </div>
 </template>
 
